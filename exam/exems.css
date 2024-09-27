@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 100%;
+
+}
+body{
+    background-image: url('../exam/tin-tuc/background-tintuc.png');
+    font-size: 18px;
+    background-size: 100%;
+}
+header{
+    display: flex;
+    padding: 10px 15px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0, 0.1, 0.5, rgba(0, 0, 0, 0.1) ;
+    background-color: #fff;
+    position: fixed;
+    width: 80%;
+    z-index: 1000;
+    position: relative;
+
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    margin: 2rem 1rem ;
+    color: black;
+}
+h4{
+    color: #6e9608;
+}
+h2{
+    text-align: center;
+    font-size: 33px;
+
+}
+p{
+    font-size: small;
+}
+section img{
+    width: 100%;
+    height: 20rem;
+
+}
+
+.cart{
+    margin: 0 1rem;
+}
+.row{
+    display: flex;
+}
+
+
+footer{
+    display: flex;
+    background-image: url('../exam/tin-tuc/bg-nghe-nhan.png');
+    justify-content: space-around;
+    padding:2rem rem;
+    font-size: 10;
+}
+img.footer{
+    width: 70px;
+}
