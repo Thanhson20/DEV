@@ -1,0 +1,15 @@
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.csproj.AssemblyReference.cache
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.AssemblyInfoInputs.cache
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.AssemblyInfo.cs
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.csproj.CoreCompileInputs.cache
+E:\DEV\Net Core\Lap02\Lap02\bin\Debug\net7.0\Lap02.exe
+E:\DEV\Net Core\Lap02\Lap02\bin\Debug\net7.0\Lap02.deps.json
+E:\DEV\Net Core\Lap02\Lap02\bin\Debug\net7.0\Lap02.runtimeconfig.json
+E:\DEV\Net Core\Lap02\Lap02\bin\Debug\net7.0\Lap02.dll
+E:\DEV\Net Core\Lap02\Lap02\bin\Debug\net7.0\Lap02.pdb
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.dll
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\refint\Lap02.dll
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.pdb
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\Lap02.genruntimeconfig.cache
+E:\DEV\Net Core\Lap02\Lap02\obj\Debug\net7.0\ref\Lap02.dll
