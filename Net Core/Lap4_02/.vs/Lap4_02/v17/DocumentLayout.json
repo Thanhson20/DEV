@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\Net Core\\Lap4_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|e:\\dev\\net core\\lap4_02\\lap04_03\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|solutionrelative:lap04_03\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|e:\\dev\\net core\\lap4_02\\lap04_03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|solutionrelative:lap04_03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|e:\\dev\\net core\\lap4_02\\lap04_03\\iencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|solutionrelative:lap04_03\\iencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|e:\\dev\\net core\\lap4_02\\lap04_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A7B91-D7A4-40B2-8891-1DDC50167C27}|Lap04_03\\Lap04_03.csproj|solutionrelative:lap04_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|e:\\dev\\net core\\lap4_02\\lap4_02\\studentuniversity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|solutionrelative:lap4_02\\studentuniversity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|e:\\dev\\net core\\lap4_02\\lap4_02\\studentcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|solutionrelative:lap4_02\\studentcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|e:\\dev\\net core\\lap4_02\\lap4_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|solutionrelative:lap4_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|e:\\dev\\net core\\lap4_02\\lap4_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F9A16E-EA5F-442E-8DB4-23323E18CECD}|Lap4_02\\Lap4_02.csproj|solutionrelative:lap4_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStoreable.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\IStoreable.cs",
+              "RelativeDocumentMoniker": "Lap04_03\\IStoreable.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\IStoreable.cs",
+              "RelativeToolTip": "Lap04_03\\IStoreable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:39:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEncrypt.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\IEncrypt.cs",
+              "RelativeDocumentMoniker": "Lap04_03\\IEncrypt.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\IEncrypt.cs",
+              "RelativeToolTip": "Lap04_03\\IEncrypt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:37:52.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\Document.cs",
+              "RelativeDocumentMoniker": "Lap04_03\\Document.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\Document.cs",
+              "RelativeToolTip": "Lap04_03\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:35:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lap04_03\\Program.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap04_03\\Program.cs",
+              "RelativeToolTip": "Lap04_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:30:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUniversity.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\StudentUniversity.cs",
+              "RelativeDocumentMoniker": "Lap4_02\\StudentUniversity.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\StudentUniversity.cs",
+              "RelativeToolTip": "Lap4_02\\StudentUniversity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:20:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCollege.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\StudentCollege.cs",
+              "RelativeDocumentMoniker": "Lap4_02\\StudentCollege.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\StudentCollege.cs",
+              "RelativeToolTip": "Lap4_02\\StudentCollege.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:10:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\Student.cs",
+              "RelativeDocumentMoniker": "Lap4_02\\Student.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\Student.cs",
+              "RelativeToolTip": "Lap4_02\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:04:18.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lap4_02\\Program.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap4_02\\Lap4_02\\Program.cs",
+              "RelativeToolTip": "Lap4_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:03:11.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

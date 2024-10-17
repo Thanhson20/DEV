@@ -1,0 +1,15 @@
+E:\DEV\Net Core\Lap04\Lap04\bin\Debug\net8.0\Lap04.exe
+E:\DEV\Net Core\Lap04\Lap04\bin\Debug\net8.0\Lap04.deps.json
+E:\DEV\Net Core\Lap04\Lap04\bin\Debug\net8.0\Lap04.runtimeconfig.json
+E:\DEV\Net Core\Lap04\Lap04\bin\Debug\net8.0\Lap04.dll
+E:\DEV\Net Core\Lap04\Lap04\bin\Debug\net8.0\Lap04.pdb
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.AssemblyInfoInputs.cache
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.AssemblyInfo.cs
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.csproj.CoreCompileInputs.cache
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.sourcelink.json
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.dll
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\refint\Lap04.dll
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.pdb
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\Lap04.genruntimeconfig.cache
+E:\DEV\Net Core\Lap04\Lap04\obj\Debug\net8.0\ref\Lap04.dll
