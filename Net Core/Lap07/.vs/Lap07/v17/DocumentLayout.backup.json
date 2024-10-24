@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\Net Core\\Lap07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{519E1445-B979-4CF2-B811-9E07B1F23FBB}|Lap07-2\\Lap07-2.csproj|e:\\dev\\net core\\lap07\\lap07-2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E1445-B979-4CF2-B811-9E07B1F23FBB}|Lap07-2\\Lap07-2.csproj|solutionrelative:lap07-2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519E1445-B979-4CF2-B811-9E07B1F23FBB}|Lap07-2\\Lap07-2.csproj|e:\\dev\\net core\\lap07\\lap07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519E1445-B979-4CF2-B811-9E07B1F23FBB}|Lap07-2\\Lap07-2.csproj|solutionrelative:lap07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785D189-2419-45F9-B45D-32F5A50DC790}|Lap07-1\\Lap07-1.csproj|e:\\dev\\net core\\lap07\\lap07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785D189-2419-45F9-B45D-32F5A50DC790}|Lap07-1\\Lap07-1.csproj|solutionrelative:lap07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785D189-2419-45F9-B45D-32F5A50DC790}|Lap07-1\\Lap07-1.csproj|e:\\dev\\net core\\lap07\\lap07-1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785D189-2419-45F9-B45D-32F5A50DC790}|Lap07-1\\Lap07-1.csproj|solutionrelative:lap07-1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dev.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap07\\Lap07-2\\Dev.cs",
+              "RelativeDocumentMoniker": "Lap07-2\\Dev.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap07\\Lap07-2\\Dev.cs",
+              "RelativeToolTip": "Lap07-2\\Dev.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:03:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap07\\Lap07-2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap07-2\\Program.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap07\\Lap07-2\\Program.cs",
+              "RelativeToolTip": "Lap07-2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:03:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dev.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap07\\Lap07-1\\Dev.cs",
+              "RelativeDocumentMoniker": "Lap07-1\\Dev.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap07\\Lap07-1\\Dev.cs",
+              "RelativeToolTip": "Lap07-1\\Dev.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:29:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap07\\Lap07-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap07-1\\Program.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap07\\Lap07-1\\Program.cs",
+              "RelativeToolTip": "Lap07-1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:28:22.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
