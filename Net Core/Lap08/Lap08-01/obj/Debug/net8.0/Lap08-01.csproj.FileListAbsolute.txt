@@ -1,0 +1,15 @@
+E:\DEV\Net Core\Lap08\Lap08-01\bin\Debug\net8.0\Lap08-01.exe
+E:\DEV\Net Core\Lap08\Lap08-01\bin\Debug\net8.0\Lap08-01.deps.json
+E:\DEV\Net Core\Lap08\Lap08-01\bin\Debug\net8.0\Lap08-01.runtimeconfig.json
+E:\DEV\Net Core\Lap08\Lap08-01\bin\Debug\net8.0\Lap08-01.dll
+E:\DEV\Net Core\Lap08\Lap08-01\bin\Debug\net8.0\Lap08-01.pdb
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.AssemblyInfoInputs.cache
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.AssemblyInfo.cs
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.csproj.CoreCompileInputs.cache
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.sourcelink.json
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.dll
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\refint\Lap08-01.dll
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.pdb
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\Lap08-01.genruntimeconfig.cache
+E:\DEV\Net Core\Lap08\Lap08-01\obj\Debug\net8.0\ref\Lap08-01.dll
