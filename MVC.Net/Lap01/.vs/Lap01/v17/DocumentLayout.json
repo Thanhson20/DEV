@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\MVC.Net\\Lap01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|e:\\dev\\mvc.net\\lap01\\lap01\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|solutionrelative:lap01\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|e:\\dev\\mvc.net\\lap01\\lap01\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|solutionrelative:lap01\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|e:\\dev\\mvc.net\\lap01\\lap01\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|solutionrelative:lap01\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|e:\\dev\\mvc.net\\lap01\\lap01\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1126DB-21BB-41D9-B775-4093DFF32194}|Lap01\\Lap01.csproj|solutionrelative:lap01\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lap01\\Views\\People\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "Lap01\\Views\\People\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFgAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T02:18:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Lap01\\Controllers\\PeopleController.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Lap01\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:03:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataLocal.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Models\\DataLocal.cs",
+              "RelativeDocumentMoniker": "Lap01\\Models\\DataLocal.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Models\\DataLocal.cs",
+              "RelativeToolTip": "Lap01\\Models\\DataLocal.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:51:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "People.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Models\\People.cs",
+              "RelativeDocumentMoniker": "Lap01\\Models\\People.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lap01\\Lap01\\Models\\People.cs",
+              "RelativeToolTip": "Lap01\\Models\\People.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:41:17.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
