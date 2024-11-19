@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\MVC.Net\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Migrations\\20241119030224_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab08\\Migrations\\20241119030224_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|e:\\dev\\mvc.net\\lab08\\lab08\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6C2102-B2C3-47F4-BD87-09C8C37490E7}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241119030224_v1.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Migrations\\20241119030224_v1.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\20241119030224_v1.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Migrations\\20241119030224_v1.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\20241119030224_v1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:02:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:58:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab08\\appsettings.json",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\appsettings.json",
+              "RelativeToolTip": "Lab08\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T02:55:43.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Category.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Category.cs",
+              "RelativeToolTip": "Lab08\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:50:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08\\Program.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Program.cs",
+              "RelativeToolTip": "Lab08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:18:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Lab08\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:54:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\OrderDetail.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Lab08\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:53:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Orders.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Orders.cs",
+              "RelativeToolTip": "Lab08\\Models\\Orders.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:52:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Product.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Product.cs",
+              "RelativeToolTip": "Lab08\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:51:31.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Blog.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Blog.cs",
+              "RelativeToolTip": "Lab08\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:49:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Banner.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Banner.cs",
+              "RelativeToolTip": "Lab08\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:48:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Customer.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Customer.cs",
+              "RelativeToolTip": "Lab08\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:47:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Account.cs",
+              "ToolTip": "E:\\DEV\\MVC.Net\\Lab08\\Lab08\\Models\\Account.cs",
+              "RelativeToolTip": "Lab08\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:46.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
