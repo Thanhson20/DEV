@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\DEV\\Net Core\\Lap08\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D9CFD30-6301-427A-A4F4-B5951CEC9BA5}|Lap08_3\\Lap08_3.csproj|e:\\dev\\net core\\lap08\\lap08_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9CFD30-6301-427A-A4F4-B5951CEC9BA5}|Lap08_3\\Lap08_3.csproj|solutionrelative:lap08_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9CFD30-6301-427A-A4F4-B5951CEC9BA5}|Lap08_3\\Lap08_3.csproj|e:\\dev\\net core\\lap08\\lap08_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9CFD30-6301-427A-A4F4-B5951CEC9BA5}|Lap08_3\\Lap08_3.csproj|solutionrelative:lap08_3\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B777781-9A4A-4122-986F-D2117D2E81F4}|Lap08_2\\Lap08_2.csproj|e:\\dev\\net core\\lap08\\lap08_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B777781-9A4A-4122-986F-D2117D2E81F4}|Lap08_2\\Lap08_2.csproj|solutionrelative:lap08_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Film.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08_3\\Film.cs",
+              "RelativeDocumentMoniker": "Lap08_3\\Film.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap08\\Lap08_3\\Film.cs",
+              "RelativeToolTip": "Lap08_3\\Film.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:26:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lap08_3\\Program.cs",
+              "ToolTip": "E:\\DEV\\Net Core\\Lap08\\Lap08_3\\Program.cs",
+              "RelativeToolTip": "Lap08_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:26:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08_2\\Order.cs",
               "RelativeDocumentMoniker": "Lap08_2\\Order.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08_2\\Customer.cs",
               "RelativeDocumentMoniker": "Lap08_2\\Customer.cs",
@@ -56,20 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08_2\\Program.cs",
               "RelativeDocumentMoniker": "Lap08_2\\Program.cs",
               "ToolTip": "E:\\DEV\\Net Core\\Lap08\\Lap08_2\\Program.cs",
               "RelativeToolTip": "Lap08_2\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T02:08:09.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DEV\\Net Core\\Lap08\\Lap08-01\\Program.cs",
               "RelativeDocumentMoniker": "Lap08-01\\Program.cs",

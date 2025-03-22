@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DevXuongMoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:05:08.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:04:56.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAA1AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:49:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartnerController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\PartnerController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\PartnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:49:20.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Cart.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:25:03.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:20:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:20:12.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:14:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:13:01.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:12:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fonts.css",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T07:56:18.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\News\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T07:53:23.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\NewsController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:53:09.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T07:45:16.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutusController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:44:59.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T07:34:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T07:23:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T07:20:36.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "adminlte.js",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "ViewState": "AgIAAJQFAAAAAAAAAADwv/oEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-09T08:03:22.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XuongMocContext.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\XuongMocContext.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\XuongMocContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwO8CAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:02:52.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:30:00.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:29:27.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:57:47.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAuwBUBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:07:04.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAIBJwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:01:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwC8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:01:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:00:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T06:00:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwE4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T05:59:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T04:09:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T04:05:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T04:03:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T03:59:05.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAIBJwF8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T08:10:23.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
