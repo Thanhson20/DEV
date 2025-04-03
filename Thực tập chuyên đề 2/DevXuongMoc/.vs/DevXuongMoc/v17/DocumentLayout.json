@@ -1,142 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DevXuongMoc\\",
+  "WorkspaceRootPath": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Partner\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\PartnerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Models\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Aboutus\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\AboutusController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\js\\adminlte.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Models\\XuongMocContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|e:\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A90B44BA-8D5E-4A8E-B265-AE7EA20C4A76}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,11 +150,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwDEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -162,11 +162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ContactController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAA1AQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -186,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PartnerController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\PartnerController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\PartnerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Cart.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Cart.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
               "RelativeToolTip": "DevXuongMoc\\Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -222,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\CartController.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,9 +236,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Details.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -247,11 +247,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -259,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "fonts.css",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
               "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\fonts.css",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
               "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\fonts.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -283,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\News\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\News\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\News\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -295,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "NewsController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\NewsController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewsController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\NewsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,11 +319,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "AboutusController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\AboutusController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\AboutusController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -343,11 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -357,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -367,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "adminlte.js",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
               "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
               "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\js\\adminlte.js",
               "ViewState": "AgIAAJQFAAAAAAAAAADwv/oEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -379,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "XuongMocContext.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Models\\XuongMocContext.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
               "RelativeToolTip": "DevXuongMoc\\Models\\XuongMocContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwO8CAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "BannersController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,11 +403,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "AdminUsersController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DevXuongMoc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAOwAAAAAAAAAAAAuwBUBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
               "ViewState": "AgIAAFwAAAAAAAAAAIBJwI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAApwC8AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
               "ViewState": "AgIAAG8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -475,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -487,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAIBJwE4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -501,9 +501,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -513,9 +513,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -525,9 +525,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -537,9 +537,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -549,9 +549,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "DocumentMoniker": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
-              "ToolTip": "E:\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "ToolTip": "E:\\DEV\\Th\u1EF1c t\u1EADp chuy\u00EAn \u0111\u1EC1 2\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
               "ViewState": "AgIAAF0AAAAAAAAAAIBJwF8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
